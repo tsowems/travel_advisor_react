@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/travel_advisor_react/static/js/main.27ae6656.js",
+    "main.js": "/travel_advisor_react/static/js/main.d1a361d7.js",
     "index.html": "/travel_advisor_react/index.html",
-    "main.27ae6656.js.map": "/travel_advisor_react/static/js/main.27ae6656.js.map"
+    "main.d1a361d7.js.map": "/travel_advisor_react/static/js/main.d1a361d7.js.map"
   },
   "entrypoints": [
-    "static/js/main.27ae6656.js"
+    "static/js/main.d1a361d7.js"
   ]
 }
